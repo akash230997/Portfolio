@@ -1,0 +1,10 @@
+.myName {
+  display: inline-block;
+  margin-left: 25%;
+}
+
+.maincontainer {
+  /* margin-bottom: 0% !important; */
+  /* border: 1px solid #000; */
+  width: 172%;
+}
